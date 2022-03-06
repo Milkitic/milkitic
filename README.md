@@ -1,6 +1,6 @@
 # Hi there 
 
-twitter: https://mobile.twitter.com/Milkitic
+twitter: https://www.twitter.com/Milkitic
 discord: yf_bmp#4530
 
 I'm [Milkitic](https://github.com/Milkitic), and "yf_bmp" for some communities, currently a .NET programmer. 是中国人哦
