@@ -1,12 +1,10 @@
-# Hi there 
-
+```
 twitter: https://www.twitter.com/Milkitic
-discord: yf_bmp#4530
+discord: milkitic
+```
 
-I'm [Milkitic](https://github.com/Milkitic), and "yf_bmp" for some communities, currently a .NET programmer. 是中国人哦
+I'm [Milkitic](https://github.com/Milkitic), currently a .NET programmer.
 
-dotnet❤
+What I'm mainly working for is industrial softwares, and oss which including client softwares, tools, algorithm libraries, frameworks and a game server (See more on my pinned).
 
-What I'm mainly working for is industrial softwares ...and open source projects which including client softwares, tools, algorithm libraries, frameworks, and a server app (See more on my pinned).
-
-What I'm preparaing and looking forword to is the next .NET 6, which including Blazor Desktop and .NET Maui platform. 
+What I'm preparaing and looking forword to is AI programming.
